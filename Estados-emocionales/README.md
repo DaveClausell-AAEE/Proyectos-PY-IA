@@ -1,7 +1,7 @@
 # Análisis biométrico y clasificación de estados emocionales con IA
 
 ## Introducción al proyecto
-Este proyecto surge de una investigación en el campo de las **Artes Electrónicas** [**Ataraxia**](https://drive.google.com/file/d/1_IcEm5l5GKpxgTL6M_eNUjCFuTEx1AVf/view?usp=sharing), donde se explora la intersección entre la tecnología, la fisiología humana y los estímulos sensoriales. El objetivo principal es analizar cómo diferentes intervenciones externas (aromas y música) influyen en la respuesta al estrés y la recuperación emocional de los sujetos.
+Este proyecto surge de una investigación en el campo de las **Artes Electrónicas** [**Ataraxia**](https://github.com/DaveClausell-AAEE/Ataraxia), donde se explora la intersección entre la tecnología, la fisiología humana y los estímulos sensoriales. El objetivo principal es analizar cómo diferentes intervenciones externas (aromas y música) influyen en la respuesta al estrés y la recuperación emocional de los sujetos.
 
 Utilizando un dataset propio con registros de **conductancia de la piel (GSR)**, tiempos de respuesta en **test neuropsicológicos (Stroop y TMT)** y escalas de **autopercepción subjetiva**, este desarrollo busca automatizar la interpretación de estados emocionales mediante el uso de Python e Inteligencia Artificial.
 
